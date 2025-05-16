@@ -55,12 +55,6 @@ The model provides a strong baseline for predicting real estate prices. With pro
 
 ---
 
-## 📬 Contact
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
 ---
 
 ## 📄 License
