@@ -53,10 +53,3 @@ The model provides a strong baseline for predicting real estate prices. With pro
    ```
 3. Run the Jupyter Notebook or Python script to train the model.
 
----
-
----
-
-## 📄 License
-
-This project is for learning and demonstration purposes only.
